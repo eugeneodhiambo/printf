@@ -12,3 +12,5 @@ What you should learn from this project:
 - Managing a lot of files and finding a good workflow
 
 ## Prototype ##
+
+` int _printf(const char *format, ...); `
