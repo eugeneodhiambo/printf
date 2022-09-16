@@ -14,3 +14,4 @@ What you should learn from this project:
 ## Prototype ##
 
 ` int _printf(const char *format, ...); `
+## Usage ##
